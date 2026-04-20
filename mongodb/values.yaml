@@ -1,4 +1,4 @@
 deployment:
-  replicas: 1
+  replicas: "1"
   imageName: "nagendra2244/mongodb"
   imageVersion: "1.2.0"
